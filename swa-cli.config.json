@@ -1,0 +1,11 @@
+{
+  "configurations": {
+    "app": {
+      "context": "http://localhost:3000",
+      "apiLocation": ".",
+      "appLocation":  ".",
+      "run": "remix dev",
+      "swaConfigLocation": "./public"
+    }
+  }
+}
